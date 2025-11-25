@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(254, 255, 185);
+}
+
+h1{
+    margin-top: 10px;
+    font-family: "Audiowide";
+    color: blue;
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
+ul{
+    background-color: pink;
+}
+
+p.destacado {
+    border: 2px;
+
+}
